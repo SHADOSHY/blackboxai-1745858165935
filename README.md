@@ -1,2 +1,1 @@
-# blackboxai-1745858165935
-Built by https://www.blackbox.ai
+Created by Android Studio and 
